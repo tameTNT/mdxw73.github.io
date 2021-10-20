@@ -1,0 +1,25 @@
+body {
+    background-color: lightgray;
+}
+.header {
+    margin: 20px;
+}
+.colors {
+    margin-top: 20px;
+}
+span {
+    padding: 10px;
+    border-radius: 10px;
+}
+#red span:hover {
+    background-color:red;
+    color:white;
+}
+#green span:hover {
+    background-color:green;
+    color:white;
+}
+#blue span:hover {
+    background-color:blue;
+    color:white;
+}
