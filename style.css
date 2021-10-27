@@ -1,3 +1,8 @@
 #citations {
     text-align: right;
 }
+.subscript {
+    font-size: x-small;
+    color: gray;
+    font-style: italic;
+}
