@@ -13,6 +13,7 @@
     background-position: center;
 }
 .bgimg-1 {
+    padding-top: 56px;
     background-image: url("https://images.wallpapersden.com/image/download/high-tech-earth_bGdqZm6UmZqaraWkpJRobWllrWdma2U.jpg");
 }
 .bgimg-2 {
@@ -38,4 +39,9 @@ body, html {
     font-size: 28px;
     letter-spacing: 10px;
     border-radius: 12px;
+}
+.fixed{
+    z-index: 100;
+    position: fixed;
+    width: 100%;
 }
